@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anshul Kumar</h1>
 <h3 align="center">An Enthusiastic CSE Student From India.</h3>
 
-<p align="left"> <a href="https://instagram.com/ianshulx" target="blank"><img src="https://img.shields.io/instagram/follow/ianshulx?logo=instagram&style=for-the-badge" alt="ianshulx" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ianshulx" target="blank"><img src="https://img.shields.io/twitter/follow/ianshulx?logo=twitter&style=for-the-badge" alt="ianshulx" /></a> </p>
 
 - 📝 I regularly write articles on [www.hackerscore.me](www.hackerscore.me)
 
