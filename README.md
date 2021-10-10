@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anshul Kumar</h1>
-<h3 align="center">An Enthusiastic CSE Student From India.</h3>
+<h3 align="center">An Enthusiastic CSE Student</h3>
 
 <p align="left"> <a href="https://twitter.com/ianshulx" target="blank"><img src="https://img.shields.io/twitter/follow/ianshulx?logo=twitter&style=for-the-badge" alt="ianshulx" /></a> </p>
 
