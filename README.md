@@ -71,7 +71,7 @@ I believe in implementing the knowledge which you have. Projects play a major ro
    <div align="center">
       
    <h1 align="center">Coding Nova Community</h1>
-      <img width="10%" align="center"   src="https://github.com/ianshulx/ianshulx/Coding Nova.png" >
+      <img width="10%" align="center"   src="https://github.com/ianshulx/ianshulx/blob/main/Coding%20Nova.png" >
  
 I have started a Community named Coding Nova  [Community of Coding Enthusiasts] Where we share Resources, Roadmaps to learn different technologies and share opportunities related to different tech programs.
 
