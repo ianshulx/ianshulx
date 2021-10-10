@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 <h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/ianshulx/" target="_blank"> Anshul Kumar </a><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
-<img width="40%" align="right"   src="https://github.com/ianshulx/ianshulx/blob/03193437b82d681c9caa24657c4ebec746dc628f/workbench.svg" >
+<img width="40%" align="right"   src="https://github.com/ianshulx/ianshulx/blob/main/workbench.svg" >
 
 A bit about Myself, I am <b>Anshul Kumar</b> pursuing my <b>Computer Science Degree</b> from Eshan College Of Engineering, Currently in my Second-Year of B.Tech. As of now, I am focused on <b>web development, Machine Learning and Cyber Security</b> but still, wish to explore many fields. ⚡
 
