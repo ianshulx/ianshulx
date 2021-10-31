@@ -2,11 +2,11 @@
 <h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/ianshulx/" target="_blank"> Anshul Kumar </a><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
 <img width="40%" align="right"   src="https://github.com/ianshulx/ianshulx/blob/main/workbench.svg" >
 
-A bit about Myself, I am <b>Anshul Kumar</b> pursuing my <b>Computer Science Degree</b> from Eshan College Of Engineering, Currently in my Second-Year of B.Tech. As of now, I am focused on <b>web development, Machine Learning and Cyber Security</b> but still, wish to explore many fields. ⚡
+About Myself, I am <b>Anshul Kumar,</b> A 2nd Year <b>Computer Science Engineering Student.</b>Currently, I am persuing my B.Tech Degree from Eshan College Of Engineering Affiliated with Dr. A.P.J. Abdul Kalam Technical University.</b>As A beginner CSE Student I have learned and worked on basic programming languages like <b>C, C++, Python, HTML, CSS And JS,</b>Curretntly I have my Focus on Machine Learning And Web development but still, wish to explore many fields in Computer . ⚡
 
 <h3 align="center"> Web And App Developer | Cyber Securty Enthusiast </h3>
 
-<h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=ianshulx&label=Profile%20views&color=6805D3&style=flat" alt="SauravMukherjee" /> </p></h3>
+<h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=ianshulx&label=Profile%20views&color=6805D3&style=flat" alt="AnshulKumar" /> </p></h3>
    <div align="center">
 
 <!-- <h1>Technical Skills 🛠</h1> -->
