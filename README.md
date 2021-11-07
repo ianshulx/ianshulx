@@ -46,7 +46,7 @@ About Myself, I am <b>Anshul Kumar,</b> A 2nd Year <b>Computer Science Engineeri
 </p>
 
 
-I believe in implementing the knowledge which you have. Projects play a major role in showcasing your skills. They help in predicting skills of a person. So let's have a look at my project section.
+<!-- I believe in implementing the knowledge which you have. Projects play a major role in showcasing your skills. They help in predicting skills of a person. So let's have a look at my project section. -->
 
 
 
