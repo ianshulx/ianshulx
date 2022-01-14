@@ -4,7 +4,7 @@
 
 About Myself, I am <b>Anshul Kumar,</b> A 2nd Year <b>Computer Science Engineering Student.</b> Currently, I am persuing my B.Tech Degree from Eshan College Of Engineering Affiliated with Dr. A.P.J. Abdul Kalam Technical University.</b>As A beginner CSE Student I have learned and worked on basic programming languages like <b>C, C++, Python, HTML, CSS And JS,</b> Curretntly I have my Focus on Machine Learning And Web development but still, wish to explore many fields in Computer Science . ⚡
 
-<h3 align="center"> Web And App Developer | Cyber Securty Enthusiast </h3>
+<h3 align="center"> CSE Student</h3>
 
 <h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=ianshulx&label=Profile%20views&color=6805D3&style=flat" alt="AnshulKumar" /> </p></h3>
    <div align="center">
