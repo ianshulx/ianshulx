@@ -1,6 +1,6 @@
 ![](https://github.com/ianshulx/ianshulx/blob/main/header.gif)
 <h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/ianshulx/" target="_blank"> Anshul Kumar </a><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
-<img width="40%" align="right"   src="https://github.com/ianshulx/ianshulx/blob/main/workbench.svg" >
+<!-- <img width="40%" align="right"   src="https://github.com/ianshulx/ianshulx/blob/main/workbench.svg" > -->
 
 About Myself, I am <b>Anshul Kumar,</b> a 2nd year <b>Computer Science Engineering Student.</b> Currently, I am persuing my B.Tech Degree from Eshan College Of Engineering Affiliated with Dr. A.P.J. Abdul Kalam Technical University.</b> As a beginner CSE Student I have learned and worked on basic programming languages like <b>C, Python, HTML, CSS And JS,</b> Curretntly I have focus on Machine Learning and Web development but still, wish to explore many fields in Computer Science . ⚡
 
