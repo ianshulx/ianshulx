@@ -79,8 +79,6 @@ I have started a Community  "Coding Nova"  [Community of Coding & Tech Enthusias
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ianshulx&theme=dark" alt="SauravMukherjee" /></p>
   </div>
-
- [![ianshulx's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ianshulx&theme=xcode)](https://git.io/ianshulx)
    
    
 
