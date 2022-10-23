@@ -2,9 +2,11 @@
 <h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/ianshulx/" target="_blank"> Anshul Kumar </a><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
 <!-- <img width="40%" align="right"   src="https://github.com/ianshulx/ianshulx/blob/main/workbench.svg" > -->
 
-About Myself, I am <b>Anshul Kumar,</b> a 3rd year <b>Computer Science Engineering Student.</b> Currently, I am persuing my B.Tech Degree from Eshan College Of Engineering Affiliated with Dr. A.P.J. Abdul Kalam Technical University.</b> As a beginner CSE Student I have learned and worked on basic programming languages like <b>C, Python, HTML, CSS And JS,</b> . I love to Exolore new technologies. ⚡
+About Myself, I am <b>Anshul Kumar,</b> a Pre-final year <b>Computer Science Engineering Student.</b> Currently, I am persuing my B.Tech Degree from Dr. A.P.J. Abdul Kalam Technical University.I love to explore how things actually work behind the scenes in softwares, web applications & other IT applications & Techs .</b> Currently I've my focus on AI & Web.
 
-<h3 align="center"> CSE Student</h3>
+I believe in implementing the knowledge which you have. Projects play a major role in showcasing your skills. They help in predicting skills of a person. So let's have a look at my <a href="https://github.com/ianshulx?tab=repositories">project section.</a>
+
+<!-- <h3 align="center"> CSE Student</h3> -->
 
 <h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=ianshulx&label=Profile%20views&color=6805D3&style=flat" alt="AnshulKumar" /> </p></h3>
    <div align="center">
@@ -35,7 +37,7 @@ About Myself, I am <b>Anshul Kumar,</b> a 3rd year <b>Computer Science Engineeri
  </p>
 
 
-<!-- I believe in implementing the knowledge which you have. Projects play a major role in showcasing your skills. They help in predicting skills of a person. So let's have a look at my project section. -->
+
 
 
 
@@ -57,14 +59,7 @@ About Myself, I am <b>Anshul Kumar,</b> a 3rd year <b>Computer Science Engineeri
 </div>
   
 
-   <div align="center">
-      
-   <h1 align="center">Coding Nova Community</h1>
-      <img width="10%" align="center"   src="https://github.com/ianshulx/ianshulx/blob/main/Coding%20Nova.png" >
- 
-I have started a Community  "Coding Nova"  [Community of Coding & Tech Enthusiasts] Where we share Resources, Roadmaps to learn different technologies and share opportunities related to different tech programs.
-
-
+  
  </div>
    
    
