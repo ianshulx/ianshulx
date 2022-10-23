@@ -2,7 +2,7 @@
 <h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/ianshulx/" target="_blank"> Anshul Kumar </a><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
 <!-- <img width="40%" align="right"   src="https://github.com/ianshulx/ianshulx/blob/main/workbench.svg" > -->
 
-About Myself, I am <b>Anshul Kumar,</b> a Pre-final year <b>Computer Science Engineering Student.</b> Currently, I am persuing my B.Tech Degree from Dr. A.P.J. Abdul Kalam Technical University.I love to explore how things actually work behind the scenes in softwares, web applications & other IT applications & Techs .</b> Currently I've my focus on AI & Web.
+About Myself, I am <b>Anshul Kumar,</b> a Pre-final year <b>Computer Science Engineering Student.</b> Currently, I am persuing my B.Tech Degree from Dr. A.P.J. Abdul Kalam Technical University. I love to explore how things actually work behind the scenes in softwares, web applications & other IT applications & Techs .</b> Currently I've my focus on Web development & AI.
 
 I believe in implementing the knowledge which you have. Projects play a major role in showcasing your skills. They help in predicting skills of a person. So let's have a look at my <a href="https://github.com/ianshulx?tab=repositories">project section.</a>
 
