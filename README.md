@@ -2,7 +2,7 @@
 <h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/ianshulx/" target="_blank"> Anshul Kumar </a><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
 <!-- <img width="40%" align="right"   src="https://github.com/ianshulx/ianshulx/blob/main/workbench.svg" > -->
 
-Hello there! My name is <b>Anshul Kumar</b>, and I am a pre-final year computer science engineering student. I am currently pursuing a B-Tech Degree from Dr. A.P.J. Abdul Kalam Technical University.
+Hello there! My name is <b>Anshul Kumar</b>, and I am a pre-final year computer science engineering student. I am currently pursuing B-Tech Degree from Dr. A.P.J. Abdul Kalam Technical University.
 
 As a curious and driven individual, I have always been fascinated by how things work behind the scenes in software, web applications, and other cutting-edge IT technologies. My passion for exploring the inner workings of these applications has led me to dive deep into various programming languages and development frameworks.
 
