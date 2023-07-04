@@ -1,6 +1,7 @@
 ![](https://github.com/ianshulx/ianshulx/blob/main/header.gif)
 <h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/ianshulx/" target="_blank"> Anshul Kumar </a><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
-<!-- <img width="40%" align="right"   src="https://github.com/ianshulx/ianshulx/blob/main/workbench.svg" > -->
+
+<img width="40%" align="right"   src="https://github.com/ianshulx/ianshulx/blob/main/workbench.svg" >
 
 Hello there! My name is <b>Anshul Kumar</b>, and I am a pre-final year computer science engineering student. I am currently pursuing B-Tech Degree from Dr. A.P.J. Abdul Kalam Technical University.
 
