@@ -4,14 +4,14 @@
 
 <img width="40%" align="right"   src="https://github.com/ianshulx/ianshulx/blob/main/workbench.svg" >
 
-Hello there! My name is <b>Anshul Kumar</b>, and I am a pre-final year computer science engineering student. I am currently pursuing B-Tech Degree from Dr. A.P.J. Abdul Kalam Technical University.
+Hello there! My name is <b>Anshul Kumar</b>, and I am a final-year computer science engineering student. I am currently pursuing a B-Tech Degree from Dr. A.P.J. Abdul Kalam Technical University.
 
 As a curious and driven individual, I have always been fascinated by how things work behind the scenes in software, web applications, and other cutting-edge IT technologies. My passion for exploring the inner workings of these applications has led me to dive deep into various programming languages and development frameworks.
 
 In addition to my studies, I also enjoy exploring the latest tech trends and innovations. I love staying up to date on the latest developments in the world of computer science and IT, as it helps me stay ahead of the curve and better understand the needs of the industry.
 
 Looking forward, I am excited to continue exploring new technologies and honing my skills as a computer science professional. I believe that by staying curious and continuing to learn, I can help contribute to the growth and innovation of this dynamic field. 
-Also I believe in implementing the knowledge which you have. Projects play a major role in showcasing your skills. They help in predicting skills of a person. So let's have a look at my <a href="https://github.com/ianshulx?tab=repositories">project section.</a>
+Also, I believe in implementing the knowledge that you have. Projects play a major role in showcasing your skills. They help in predicting the skills of a person. So let's have a look at my <a href="https://github.com/ianshulx?tab=repositories">project section.</a>
 
 <!-- <h3 align="center"> CSE Student</h3> -->
 
