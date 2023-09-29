@@ -4,11 +4,11 @@
 
 <img width="40%" align="right"   src="https://github.com/ianshulx/ianshulx/blob/main/workbench.svg" >
 
-Hello there! My name is <b>Anshul Kumar</b>, and I am a final-year computer science engineering student. I am currently pursuing a B-Tech Degree from Dr. A.P.J. Abdul Kalam Technical University.
+Greetings! I'm Anshul Kumar, a final-year student in computer science engineering. I'm currently pursuing a B-Tech Degree at Dr. A.P.J. Abdul Kalam Technical University.
 
-As a curious and driven individual, I have always been fascinated by how things work behind the scenes in software, web applications, and other cutting-edge IT technologies. My passion for exploring the inner workings of these applications has led me to dive deep into various programming languages and development frameworks.
+I've always had a keen curiosity about the inner workings of software, web applications, and cutting-edge IT technologies. This curiosity has driven me to delve deep into various programming languages and development frameworks.
 
-In addition to my studies, I also enjoy exploring the latest tech trends and innovations. I love staying up to date on the latest developments in the world of computer science and IT, as it helps me stay ahead of the curve and better understand the needs of the industry.
+Beyond my academic pursuits, I take pleasure in keeping myself informed about the most recent tech trends and innovations. Staying updated with the latest developments in the realm of computer science and IT not only keeps me ahead of the curve but also enhances my understanding of the industry's demands.
 
 Looking forward, I am excited to continue exploring new technologies and honing my skills as a computer science professional. I believe that by staying curious and continuing to learn, I can help contribute to the growth and innovation of this dynamic field. 
 Also, I believe in implementing the knowledge that you have. Projects play a major role in showcasing your skills. They help in predicting the skills of a person. So let's have a look at my <a href="https://github.com/ianshulx?tab=repositories">project section.</a>
