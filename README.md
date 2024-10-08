@@ -2,13 +2,15 @@
 <h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/ianshulx/" target="_blank"> Anshul Kumar </a>
    <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
 
-<img width="40%" align="right"   src="https://github.com/ianshulx/ianshulx/blob/main/workbench.svg" >
+
 
 👋 Anshul Kumar here, a final-year computer science student with a strong curiosity for software, web applications, and cutting-edge IT technologies. This passion has led to deep exploration of various programming languages and development frameworks.
 
 💡 Staying informed about the latest tech trends and innovations is essential to staying ahead of industry demands.
 
 🚀 Focused on learning new technologies and applying that knowledge through hands-on projects. Check out the repositories to see current work in action! <a href="https://github.com/ianshulx?tab=repositories">project section.</a>
+
+![](https://github.com/ianshulx/ianshulx/blob/main/snake.svg)
 
 <!-- <h3 align="center"> CSE Student</h3> -->
 
