@@ -4,14 +4,11 @@
 
 <img width="40%" align="right"   src="https://github.com/ianshulx/ianshulx/blob/main/workbench.svg" >
 
-Greetings! I'm Anshul Kumar, a final-year student in computer science engineering. I'm currently pursuing a B-Tech Degree at Dr. A.P.J. Abdul Kalam Technical University.
+👋 Anshul Kumar here, a final-year computer science student with a strong curiosity for software, web applications, and cutting-edge IT technologies. This passion has led to deep exploration of various programming languages and development frameworks.
 
-I've always had a keen curiosity about the inner workings of software, web applications, and cutting-edge IT technologies. This curiosity has driven me to delve deep into various programming languages and development frameworks.
+💡 Staying informed about the latest tech trends and innovations is essential to staying ahead of industry demands.
 
-Beyond my academic pursuits, I take pleasure in keeping myself informed about the most recent tech trends and innovations. Staying updated with the latest developments in the realm of computer science and IT not only keeps me ahead of the curve but also enhances my understanding of the industry's demands.
-
-Looking forward, I am excited to continue exploring new technologies and honing my skills as a computer science professional. I believe that by staying curious and continuing to learn, I can help contribute to the growth and innovation of this dynamic field. 
-Also, I believe in implementing the knowledge that you have. Projects play a major role in showcasing your skills. They help in predicting the skills of a person. So let's have a look at my <a href="https://github.com/ianshulx?tab=repositories">project section.</a>
+🚀 Focused on learning new technologies and applying that knowledge through hands-on projects. Check out the repositories to see current work in action! <a href="https://github.com/ianshulx?tab=repositories">project section.</a>
 
 <!-- <h3 align="center"> CSE Student</h3> -->
 
