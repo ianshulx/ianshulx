@@ -4,7 +4,7 @@
 
 
 
-👋 Anshul Kumar here, a final-year computer science student with a strong curiosity for software, web applications, and cutting-edge IT technologies. This passion has led to deep exploration of various programming languages and development frameworks.
+👋 Hi, I'm Anshul Kumar, a passionate computer science enthusiast with a keen curiosity about the inner workings of software, web applications, and cutting-edge IT technologies. My love for exploration has led me to dive deep into various programming languages and development frameworks.
 
 💡 Staying informed about the latest tech trends and innovations is essential to staying ahead of industry demands.
 
