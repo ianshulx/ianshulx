@@ -78,7 +78,7 @@
 </table>
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ianshulx&theme=dark" alt="SauravMukherjee" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ianshulx&theme=dark" alt="anshulkumar" /></p>
   </div>
    
    
