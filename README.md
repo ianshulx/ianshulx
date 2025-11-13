@@ -4,11 +4,25 @@
 
 
 
-👋 Hi, I'm Anshul Kumar, a passionate computer science enthusiast with a keen curiosity about the inner workings of software, web applications, and cutting-edge IT technologies. My love for exploration has led me to dive deep into various programming languages and development frameworks.
+### Open-Source Developer • Software Explorer • Tech Learner
 
-💡 Staying informed about the latest tech trends and innovations is essential to staying ahead of industry demands.
+I’m an open-source–driven developer with a strong interest in understanding how software systems, web applications, and modern IT technologies work at a deeper level. My curiosity motivates me to explore multiple programming languages, development frameworks, and emerging tools shaping the future of technology.
 
-🚀 Focused on learning new technologies and applying that knowledge through hands-on projects. Check out the repositories to see current work in action! <a href="https://github.com/ianshulx?tab=repositories">project section.</a>
+---
+
+## 💡 What Drives Me  
+- Passion for contributing to **open-source ecosystems**  
+- Constant learning of new technologies and internal system design  
+- Keeping up with the latest software trends, architectures, and innovations  
+
+---
+
+## 🚀 What I Do  
+I work on hands-on projects, experiment with new tech stacks, and contribute to open-source development whenever possible.
+
+👉 **Explore my repositories:**  [Project Section](https://github.com/ianshulx?tab=repositories)
+
+
 
 ![](https://github.com/ianshulx/ianshulx/blob/main/snake.svg)
 
