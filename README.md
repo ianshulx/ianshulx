@@ -4,7 +4,7 @@
 
 
 
-### Open-Source Developer • Software Explorer • Tech Learner
+### Open-Source Developer • Software Developer • Explorer • Tech Learner
 
 I’m an open-source–driven developer with a strong interest in understanding how software systems, web applications, and modern IT technologies work at a deeper level. My curiosity motivates me to explore multiple programming languages, development frameworks, and emerging tools shaping the future of technology.
 
