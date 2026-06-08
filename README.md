@@ -4,21 +4,41 @@
 
 
 
-### Open-Source Developer • Software Developer • Explorer • Tech Learner
+### Software Developer • AI & Data-Science Enthusiast • Backend Developer • Open-Source Contributor
 
-I’m an open-source–driven developer with a strong interest in understanding how software systems, web applications, and modern IT technologies work at a deeper level. My curiosity motivates me to explore multiple programming languages, development frameworks, and emerging tools shaping the future of technology.
+I am a Computer Science Engineering graduate passionate about Artificial Intelligence, Database Systems, Backend Development, and Software Engineering.
+
+My primary focus is building intelligent and scalable systems that combine data, AI, and backend technologies. I enjoy working with databases, developing robust backend applications, exploring Large Language Models (LLMs), and contributing to open-source projects that create real-world impact.
 
 ---
 
 ## 💡 What Drives Me  
-- Passion for contributing to **open-source ecosystems**  
-- Constant learning of new technologies and internal system design  
-- Keeping up with the latest software trends, architectures, and innovations  
+-Building Autunoumous Applications and Intelligent Systems
+
+-Designing Scalable Backend Architectures
+
+-Working with Databases and Data Technologies
+
+-Contributing to Open-Source Communities
+
+-Continuous Learning and Technology Exploration
 
 ---
 
+🎯 Current Focus
+
+Artificial Intelligence & Generative AI
+
+Large Language Models (LLMs)
+
+Database Systems & Data Engineering
+
+Backend Development with Python
+
+Open-Source Contributions
+
 ## 🚀 What I Do  
-I work on hands-on projects, experiment with new tech stacks, and contribute to open-source development whenever possible.
+I build software projects, experiment with AI technologies, develop backend systems, work with databases, contribute to open-source initiatives, and continuously expand my knowledge of modern software engineering.
 
 👉 **Explore my repositories:**  [Project Section](https://github.com/ianshulx?tab=repositories)
 
