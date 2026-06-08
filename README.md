@@ -13,7 +13,7 @@ My primary focus is building intelligent and scalable systems that combine data,
 ---
 
 ## 💡 What Drives Me  
--Building Autunoumous Applications and Intelligent Systems
+-Building Autonoumous Applications and Intelligent Systems
 
 -Designing Scalable Backend Architectures
 
